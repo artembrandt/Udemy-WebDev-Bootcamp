@@ -1,0 +1,22 @@
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+/* ^ do not change the code there. write down below */
+#outer-box {
+  background-color: purple;
+}
+
+.inner-box {
+  background-color: red;
+}
+
+.white-text {
+  color: white;
+}
